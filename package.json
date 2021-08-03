@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-teste-postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-firebird": "^0.9.9",
+    "request": "^2.88.2"
+  }
+}
